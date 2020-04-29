@@ -6,7 +6,7 @@ target 'FeedMe!' do
   use_frameworks!
 
   # Pods for FeedMe!
-pod 'Firebase/Auth'
+pod 'FirebaseAuth'
 pod 'Firebase/Analytics'
 pod 'Firebase/Database'
 end
